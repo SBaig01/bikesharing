@@ -12,24 +12,25 @@ Show the number of bike trips for each type of user and gender for each day of t
 ## Results
 
 ### Checkout Times by Gender
-![Checkout Times by Gender] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Checkout%20Times%20by%20Gender.png)
+! [Checkout Times by Gender] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Checkout%20Times%20by%20Gender.png)
 
 ### Checkout Times for Users
-![Checkout Times for Users] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Checkout%20Times%20for%20Users.png)
+! [Checkout Times for Users] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Checkout%20Times%20for%20Users.png)
 
 ### Trips by Gender by Weekday
-![Trips by Gender by Weekday] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Gender%20Weekday%20per%20Hour.png)
+! [Trips by Gender by Weekday] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Gender%20Weekday%20per%20Hour.png)
 
 ### Trips by Gender Weekday per Hour
-![Trips by Gender Weekday per Hour] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Gender%20Weekday%20per%20Hour.png)
+! [Trips by Gender Weekday per Hour] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Gender%20Weekday%20per%20Hour.png)
 
 ### Trips by Weekday for Each Hour
-![Trips by Weekday for Each Hour] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
+! [Trips by Weekday for Each Hour] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
+
 ### Rides by Birth Year
-Rides by Birth Year (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Rides%20by%20Birth%20Year.png)
+! [Rides by Birth Year] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Rides%20by%20Birth%20Year.png)
 
 ### Rides by User Type
-Rides by User Type (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Rides%20by%20User%20Type.png)
+! [Rides by User Type] (https://github.com/SBaig01/bikesharing/blob/458284185b2d3193977a659abed9338965ffcaf9/images/Rides%20by%20User%20Type.png)
 
 
 ## Two Additional Visualizations (recommendation)
